@@ -9,6 +9,7 @@ import java.util.List;
 @Data
 @EqualsAndHashCode(callSuper = true)
 public class Education extends TimePeriod{
+    private String organizationName;
     private String location;
     private String degreeObtained;
     private String major;

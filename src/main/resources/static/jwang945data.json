@@ -1,0 +1,21 @@
+{
+  "name": {
+    "fullName": "Jet Qiang Wang",
+    "firstName": "Jet",
+    "lastName": "Wang",
+    "chineseName": "王强"
+  },
+  "emailAddress": "jetwang42@gmail.com",
+  "phoneNumber": "7705587225",
+  "educationHistory": [{
+    "startDate": "08/2018",
+    "endDate": "05/2022",
+    "organizationName": "Georgia Institute Of Technology",
+    "location": "Atlanta, GA",
+    "degreeObtained": "Bachelor of Science",
+    "major": "Computer Science",
+    "gpa": "4.0",
+    "awards": ["Dean’s List Scholarly Award", "National Merit Scholarship Award"],
+    "relevantCoursework": ["Objects & Design", "Data Structures & Algorithms", "User Interface Design", "Media Devices and Architecture ", "Computer Graphics"]
+  }]
+}
